@@ -1,0 +1,3 @@
+[submodule "fastapi-order-example"]
+	path = fastapi-order-example
+	url = https://github.com/jonatasoli/fastapi-order-example
